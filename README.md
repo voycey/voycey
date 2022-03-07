@@ -1,13 +1,18 @@
-## Hey there 👋
+### Hey there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-danielvoyce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielvoyce/)](https://www.linkedin.com/in/danielvoyce/)
 [![Medium Badge](https://img.shields.io/badge/Medium-voycey-green?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@voycey/)](https://medium.com/@voycey)
 
+<hr>
+<br>
 I'm Dan, CTO, Blockchain enthusiast & all round technologist. I have around 20 years experience as a developer both as a company owner and as a wage slave.
 
 Unfortunately, My days of knocking out lines of code regularly are long behind me, but am still doing awesome things with amazing people as a technology leader, delivering projects often using bleeding edge technologies.
 
-I am however still hands-on in a number of technologies, some of which are listed below!
+I am however still hands-on in a lot of different things, especially around infrastructure and data engineering.
+<br>
+##Technologies:
+<hr>
 
 **Cloud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws) 
@@ -63,6 +68,10 @@ I am however still hands-on in a number of technologies, some of which are liste
 **Blockchain&nbsp;**
 ![Hedera](https://img.shields.io/badge/Hedera-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPnJldmVyc2VkLWN1dG91dDwvdGl0bGU+PHJlY3QgY2xhc3M9ImNscy0xIiB4PSI4MC4xMyIgeT0iOTUuMzIiIHdpZHRoPSIzOS4yMSIgaGVpZ2h0PSIxMC4wMSIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTk5Ljc0LDMwLjY2YTY5LjY3LDY5LjY3LDAsMSwwLDY5LjY3LDY5LjY3QTY5LjY3LDY5LjY3LDAsMCwwLDk5Ljc0LDMwLjY2bTI4Ljc4LDEwMWgtOS4xOFYxMTJIODAuMTN2MTkuNjFINzFWNjloOS4xOFY4OC42NWgzOS4yMVY2OWg5LjE4WiIvPjwvc3ZnPg==)
 ![Python](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=Solidity)
+
+<hr>
+
+##Github Stats
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=voycey&count_private=true&show_icons=true&theme=chartreuse" />
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voycey&layout=compact&theme=chartreuse&langs_count=10" />
